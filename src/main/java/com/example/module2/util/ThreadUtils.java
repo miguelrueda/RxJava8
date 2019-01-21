@@ -1,4 +1,4 @@
-package com.example;
+package com.example.module2.util;
 
 public class ThreadUtils {
 

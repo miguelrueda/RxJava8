@@ -1,6 +1,6 @@
 package com.example.module2.creation;
 
-import com.example.DataGenerator;
+import com.example.module2.util.DataGenerator;
 import io.reactivex.Observable;
 import io.reactivex.schedulers.Schedulers;
 

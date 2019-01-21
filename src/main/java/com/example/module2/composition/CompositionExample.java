@@ -1,6 +1,6 @@
 package com.example.module2.composition;
 
-import com.example.ThreadUtils;
+import com.example.module2.util.ThreadUtils;
 import rx.Observable;
 import rx.schedulers.Schedulers;
 
